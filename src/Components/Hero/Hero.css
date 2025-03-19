@@ -93,7 +93,7 @@
     transform: rotate(180deg);
 }
 
-@media (min-width:768px) and (max-width:990px)
+@media (min-width:426px) and (max-width:768px)
 {
     .hero-heading {
         width: 100%;
